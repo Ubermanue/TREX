@@ -873,4 +873,4 @@ if __name__=="__main__":
     os.system('clear')
     YousuF()
 else:
-    YousuF(
+    YousuF()
